@@ -4,7 +4,7 @@ Our AI-driven Adaptive Learning Platform caters to students, universities, and c
 
 👀 We offer AI-driven tools for assessment, recruitment, learning and development. ...
 
-###🌱 Our AI-Powered Products
+🌱 ###Our AI-Powered Products
 - neo PAT
 - neo Exam
 - neo Hire
