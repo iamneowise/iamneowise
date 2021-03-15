@@ -2,8 +2,9 @@
 
 Our AI-driven Adaptive Learning Platform caters to students, universities, and corporates in all their needs of learning, upskilling, assessment, recruiting and whatnot. Our platforms are capable of recognizing individual learning patterns of students and curating content for an immersive learning experience. 
 
-- 👀 We offer AI-driven tools for assessment, recruitment, learning and development. ...
-- 🌱 Our AI-Powered Products
+👀 We offer AI-driven tools for assessment, recruitment, learning and development. ...
+
+###🌱 Our AI-Powered Products
 - neo PAT
 - neo Exam
 - neo Hire
@@ -11,8 +12,10 @@ Our AI-driven Adaptive Learning Platform caters to students, universities, and c
 - neo Coder
 - neo Colab
 - neo Classroom ...
-- 💞️ I’m looking to collaborate on AI, ML, Blockchain...
-- 📫 How to reach me Phone +91-701-004-5799 Email careers@iamneo.ai...
+
+💞️ I’m looking to collaborate on AI, ML, Blockchain...
+
+📫 How to reach me Phone +91-701-004-5799 Email careers@iamneo.ai...
 
 <!---
 iamneowise/iamneowise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
